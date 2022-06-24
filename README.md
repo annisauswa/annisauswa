@@ -6,7 +6,7 @@ Actually my family calls me Annisa. But since there are so many Annisa, my frien
 - 🔭 I’m currently an Information Engineering Student in Universitas Gadjah Mada
 - 😄 I'm good and confident at c++, python, html, and css
 - 🌱 I’m currently learning Web Development and flutter
-- 💬 Ask me about anything, my project, code, or random stuff (ex: cat or kpop)
+- 💬 Ask me about anything, my project, code, or random stuff (ex: cat)
 - 📫 How to reach me: annisauswasufia@gmail.com
 - ⚡ Fun fact: cat is my source of happiness
 
