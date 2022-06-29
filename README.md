@@ -10,3 +10,6 @@ Actually my family calls me Annisa. But since there are so many Annisa, my frien
 - 📫 Reach me at: annisauswasufia@gmail.com
 - ⚡ Fun fact: cat is my source of happiness
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annisasufy&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annisasufy&show_icons=true&count_private=true&theme=omni)
